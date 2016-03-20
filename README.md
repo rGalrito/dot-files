@@ -3,12 +3,11 @@ dot-files
 #### version: 0.4.1
 ---
 
-I believe that I can (and should) improve other Linux users' skill set.
+I like to improve my Linux users' skill set.
 
 With this repo, I pretend to provide easy access to install new and valuable tools.
 
 This is a traditional dot file repo as you can find more on [Github](https://dotfiles.github.io/).
-
 
 ---
 
