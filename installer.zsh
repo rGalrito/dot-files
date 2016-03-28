@@ -2,8 +2,6 @@
 # 10 Jan 2016
 # Rafael Galrito
 # 
-# I believe that I can improve some Linux users daily life (as well as for myself).
-# 
 # With this script, I pretend to provide easy access to install new and valuable tools.
 # 
 # requires sudo permissions
@@ -13,7 +11,6 @@
 ######
 # HOW It WORKS:
 # This script will prompt for several alternatives of useful programs/commands to install and will install them.
-#
 # This script is divided in two main parts: "Prompt" for programs and "Download and install" said programs.
 # 
 # PROMPT:
@@ -25,6 +22,14 @@
 # In here, all programs are installed acording user's choices
 #
 # You can also find the output logs in .zshinstaller
+
+
+# xmessage
+# leave
+# at
+# multitail
+# saidar
+#
 
 # logging system
 LOG_FILE=~/.zshinstaller
